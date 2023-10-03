@@ -38,9 +38,10 @@ You will learn ...
 ![CSS Overview](media/231002_Overview_CSS.png)
 
 ### What you should do:
-- [ ] Get to know the property [color](https://www.w3schools.com/css/css_colors.asp)
+- [ ] Get to know the property [color](https://www.w3schools.com/css/css_colors.
 - [ ] Get to know the [CSS Box Model](https://www.w3schools.com/css/css_colors.asp)
 - [ ] Learn about some ways to format [text](https://www.w3schools.com/css/css_text.asp) with CSS.
+- [ ] How to format a table element [CSS properties for tables](https://www.w3schools.com/css/css_table.asp)
 - [ ] Apply those properties to the HTML code that you have written so far. If necessary, add more HTML elements. 
 
 ## More things to learn about
